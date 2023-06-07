@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Factory Forms
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -8,26 +8,39 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="ff_003" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About This Site;About Factory Forms;About Me; About the About Page" %}
 
-## About CollectionBuilder CSV
+### About This Site
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Hi! I'm Mal Ahern. This is my image database for my book-in-progress, *Factory Forms*. Here's a numbered list of things I need to do to finish the book:
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+1. oh
+2. crap,
+3. **how** 
+4. will
+5. i 
+6. ***write***
+7. this?
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+I'm building this site using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv), which has been pretty cool so far.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+### About *Factory Forms*
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Here is a compelling description of my book and why you might want to look at an image database for it. 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="ff_001;ff_002" width="50" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+### About Me
+
+{% include feature/image.html objectid="https://cinema.washington.edu/sites/cinema/files/styles/rectangle/public/images/ahern_2018.jpg?h=e42bdf15&itok=obxhPaKH" width="100" %} 
+
+I am Assistant Professor of Cinema and Media Studies at the University of Washington. You can learn more about me [here](https://cinema.washington.edu/people/mal-ahern). 
+
+### About the About Page
+
+I built this webpage while Olivia et al were teaching me about MARKDOWN!
+
+
+
