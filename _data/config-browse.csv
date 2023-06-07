@@ -5,3 +5,4 @@ publication,Publication,,,
 publisher,Publisher,,,
 subject,,true
 identifier,,,true,Identifier
+techniques,,true,,
