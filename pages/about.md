@@ -30,7 +30,7 @@ I'm building this site using [CollectionBuilder-CSV](https://github.com/Collecti
 
 Here is a compelling description of my book and why you might want to look at an image database for it. 
 
-{% include feature/image.html objectid="ff_001;ff_002" width="50" %}
+{% include feature/image.html objectid="ff_001;ff_002" width="75" %}
 
 ### About Me
 
