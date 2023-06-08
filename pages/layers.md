@@ -16,7 +16,7 @@ Layering, the process of separating colors into different registers and layering
 
 By World War II, layering processes structured nearly all color printing: the relief printing of newspapers and comic books, the rotogravure printing of magazines, the screen printing of advertising and public signage, and even color motion picture film. The earliest and most important color cinema processes used layers; both Technicolor and its many predecessors drew explicitly on color printing techniques developed in the graphic arts.  
 
-{% include feature/image.html objectid="ff_007" width="50" %}
+{% include feature/image.html objectid="ff_040;ff_041" width="50" %}
 Whatever the form of color separation used, separate monochromatic images still had to be recombined—layered—in alignment. In many single-sheet processes, maintaining even color registration was a delicate, manual process that involved on-the-fly decision making.  
 	
 ## Registration
@@ -54,8 +54,9 @@ Another printer told Holtzberg that this change in standards had actually transf
 
 ## Resonances
 
+Andy Warhol ya ya ya 
 
-
+{% include feature/image.html objectid="ff_01;ff_02" width="50" %}
 
 
 
