@@ -21,6 +21,7 @@ Whatever the form of color separation used, separate monochromatic images still 
 	
 ## Registration
 An important tool for detecting and measuring the alignment of layers emerged in the “registration mark.” This small, unobtrusive symbol is often found in the margins of colored prints; one can easily find examples of it today in the lower corners of many color newspapers and magazines, on the selvedge of uncut fabric, and on inner flaps of printed packaging.  In the 20th century, registration marks came to resemble the crosshairs found in a gun-sight.  As in target shooting, single-sheet printing required a coordination of the optic and the haptic, the alignment of a technology (the gun; the printing press) with a receptive surface (the target; the printing stock). But unlike other printers’ tools—pins, paper flaps, even vacuums—used to hold the printing stock in place, the registration mark became useful not during, but after, the moment of impression. Shoot blind, measure how closely you have hit your target, adjust, and then shoot again. 
+{% include feature/image.html objectid="/objects/thumbs/registration.png" width="25" %}
 
 In the middle of the Nineteenth Century, many presses stopped printing on single sheets; instead, long ribbons of paper flowed continuously flowed through a series of cylindrical printing forms. This process became known as “web printing” for these long spools, or “webs,” of paper. (figures 2.16 – 2.18) By the early Twentieth Century, web printing was the dominant mode of pressroom organization.  Color newspapers, magazines, illustrated books, and comics were all printed on long rolls of paper that unspooled through a series of rotary presses, like the constantly moving conveyor belt of a factory assembly line.
 
@@ -53,10 +54,10 @@ I nod.<br>
 Another printer told Holtzberg that this change in standards had actually transformed the vision of younger printers, making them less sensitive to color registration problems. You have to have an eye,” he said. “Pressmen had to be sensitive. Some people—intelligent kids—you could take two prints, side by side, and they couldn’t tell the difference. Color blindness. There is such a thing as image incapacity.” 
 
 ## Resonances
-
+{% include feature/image.html objectid="ff_001;ff_002" width="50" %}
 Andy Warhol ya ya ya 
 
-{% include feature/image.html objectid="ff_01;ff_02" width="50" %}
+
 
 
 
