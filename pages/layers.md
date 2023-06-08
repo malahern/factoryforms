@@ -16,7 +16,7 @@ Layering, the process of separating colors into different registers and layering
 
 By World War II, layering processes structured nearly all color printing: the relief printing of newspapers and comic books, the rotogravure printing of magazines, the screen printing of advertising and public signage, and even color motion picture film. The earliest and most important color cinema processes used layers; both Technicolor and its many predecessors drew explicitly on color printing techniques developed in the graphic arts.  
 
-{% include feature/image.html objectid="ff_007" width="75" %}
+{% include feature/image.html objectid="ff_007" width="50" %}
 Whatever the form of color separation used, separate monochromatic images still had to be recombined—layered—in alignment. In many single-sheet processes, maintaining even color registration was a delicate, manual process that involved on-the-fly decision making.  
 	
 ## Registration
@@ -24,7 +24,7 @@ An important tool for detecting and measuring the alignment of layers emerged in
 
 In the middle of the Nineteenth Century, many presses stopped printing on single sheets; instead, long ribbons of paper flowed continuously flowed through a series of cylindrical printing forms. This process became known as “web printing” for these long spools, or “webs,” of paper. (figures 2.16 – 2.18) By the early Twentieth Century, web printing was the dominant mode of pressroom organization.  Color newspapers, magazines, illustrated books, and comics were all printed on long rolls of paper that unspooled through a series of rotary presses, like the constantly moving conveyor belt of a factory assembly line.
 
-{% include feature/video.html objectid="https://vimeo.com/127605645" caption="*You and the World of Print*, Printing Industries Association of Texas, 1976" width="75" %}
+{% include feature/video.html objectid="https://vimeo.com/127605645" caption="*You and the World of Print*, Printing Industries Association of Texas, 1976" width="50" %}
 
 Web printing required machines and press operators who could work in concert to regularly space discrete impressions along a continuous, moving surface—almost like a roll of motion picture film. If images were spaced unevenly along a web of paper, then after cutting and folding impressions would appear on the page off-center or even truncated, as on sheets of misperforated stamps. (figure 2.19) Color web printing required the same precision timing, but with narrower tolerances, and four times over: separate impressions in cyan, magenta, yellow, and black together made up the standard four-color (or CMYK) process.  In these cases, paper webs flowed through multi-cylinder presses with separate matrices for each color of ink. (figures 2.20-2.21) In order to ensure the seamlessness cohesion of these layers, printers had to manage a set of dynamic relations between the discrete unit of the page and the continuous flow of the paper web. They did this by making sure that the matrix repeatedly made its percussive impact on the page at the right moment—by ensuring their machines could keep a beat in time. 
 
