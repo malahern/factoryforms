@@ -1,14 +1,18 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
+creator,Creator,,,DCTERMS.creator,creator
+distributor,Distributor,,,,,
+publication,Publication,,,,,
+websource,Online Repository,,,,,
+physsource,Physical Repository,,,,,
+URL,Link to Source,,,,,
 identifier,Source Identifier,,,,
+description,Description,,,DCTERMS.description,description
+techniques,Techniques,,,,techniques
+forms,Forms,,,,forms
+media,Media,,,,media
+issues,Issues,,,,issues
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
