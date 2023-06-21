@@ -57,6 +57,7 @@ Another printer told Holtzberg that this change in standards had actually transf
 {% include feature/image.html objectid="ff_001;ff_002" width="50" %}
 Andy Warhol ya ya ya 
 
+## Browse All Images Featuring Layers
 {% include feature/custom-carousel.html filter-field="subject" filter-value="layers" %}
 
 
