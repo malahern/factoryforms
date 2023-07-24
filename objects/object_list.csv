@@ -1,5 +1,7 @@
 object_location,image_small,image_thumb
+/objects/16mm-motion-picture-projector-1961.mp4,,
 /objects/Warhol-Blue-Marilyn.jpg,/objects/small/warhol-blue-marilyn_sm.jpg,/objects/thumbs/warhol-blue-marilyn_th.jpg
+/objects/abdul-kaher-genesis-cinema-london.jpg,/objects/small/abdul-kaher-genesis-cinema-london_sm.jpg,/objects/thumbs/abdul-kaher-genesis-cinema-london_th.jpg
 /objects/advertisingproductioncolorplate1.jpg,/objects/small/advertisingproductioncolorplate1_sm.jpg,/objects/thumbs/advertisingproductioncolorplate1_th.jpg
 /objects/advertisingproductioncolorplate2.jpg,/objects/small/advertisingproductioncolorplate2_sm.jpg,/objects/thumbs/advertisingproductioncolorplate2_th.jpg
 /objects/advertisingproductioncolorplate3.jpg,/objects/small/advertisingproductioncolorplate3_sm.jpg,/objects/thumbs/advertisingproductioncolorplate3_th.jpg
@@ -19,6 +21,8 @@ object_location,image_small,image_thumb
 /objects/filmamontageoftheoriescover.png,/objects/small/filmamontageoftheoriescover_sm.jpg,/objects/thumbs/filmamontageoftheoriescover_th.jpg
 /objects/gabby-hayes-56-narfstar-p06.jpg,/objects/small/gabby-hayes-56-narfstar-p06_sm.jpg,/objects/thumbs/gabby-hayes-56-narfstar-p06_th.jpg
 /objects/gabby-hayes-56a-fett-p06.jpg,/objects/small/gabby-hayes-56a-fett-p06_sm.jpg,/objects/thumbs/gabby-hayes-56a-fett-p06_th.jpg
+/objects/gumpenberg-plate-52-1965.jpg,/objects/small/gumpenberg-plate-52-1965_sm.jpg,/objects/thumbs/gumpenberg-plate-52-1965_th.jpg
+/objects/gumppenberg-figure-13-1965.jpg,/objects/small/gumppenberg-figure-13-1965_sm.jpg,/objects/thumbs/gumppenberg-figure-13-1965_th.jpg
 /objects/internationalprojectionist-03-1951-detail.png,/objects/small/internationalprojectionist-03-1951-detail_sm.jpg,/objects/thumbs/internationalprojectionist-03-1951-detail_th.jpg
 /objects/internationalprojectionist-03-1951.pdf,/objects/small/internationalprojectionist-03-1951_sm.jpg,/objects/thumbs/internationalprojectionist-03-1951_th.jpg
 /objects/kusama-dressingtable-1964.jpg,/objects/small/kusama-dressingtable-1964_sm.jpg,/objects/thumbs/kusama-dressingtable-1964_th.jpg
@@ -42,9 +46,16 @@ object_location,image_small,image_thumb
 /objects/practicalcolortelevision055.jpg,/objects/small/practicalcolortelevision055_sm.jpg,/objects/thumbs/practicalcolortelevision055_th.jpg
 /objects/print-damage-runoff.jpg,/objects/small/print-damage-runoff_sm.jpg,/objects/thumbs/print-damage-runoff_th.jpg
 /objects/projectionists-manual-1953.jpg,/objects/small/projectionists-manual-1953_sm.jpg,/objects/thumbs/projectionists-manual-1953_th.jpg
+/objects/projectomatic-1960-1.jpg,/objects/small/projectomatic-1960-1_sm.jpg,/objects/thumbs/projectomatic-1960-1_th.jpg
+/objects/projectomatic-1960-2.jpg,/objects/small/projectomatic-1960-2_sm.jpg,/objects/thumbs/projectomatic-1960-2_th.jpg
 /objects/sharits-dreamdisplacement-2.jpg,/objects/small/sharits-dreamdisplacement-2_sm.jpg,/objects/thumbs/sharits-dreamdisplacement-2_th.jpg
 /objects/sharits-dreamdisplacement-video.mov,,
 /objects/souvenirofkinetoscope.jpg,/objects/small/souvenirofkinetoscope_sm.jpg,/objects/thumbs/souvenirofkinetoscope_th.jpg
+/objects/stamp-1280-frank-lloyd-wright-1966.jpg,/objects/small/stamp-1280-frank-lloyd-wright-1966_sm.jpg,/objects/thumbs/stamp-1280-frank-lloyd-wright-1966_th.jpg
+/objects/stamp-1299-jefferson-misperf-1966.jpg,/objects/small/stamp-1299-jefferson-misperf-1966_sm.jpg,/objects/thumbs/stamp-1299-jefferson-misperf-1966_th.jpg
+/objects/stamp-1338G-flag-1971.jpg,/objects/small/stamp-1338g-flag-1971_sm.jpg,/objects/thumbs/stamp-1338g-flag-1971_th.jpg
+/objects/stamp-1394_eisenhower-1971.jpg,/objects/small/stamp-1394_eisenhower-1971_sm.jpg,/objects/thumbs/stamp-1394_eisenhower-1971_th.jpg
+/objects/stamp-c78-airmail-1971.jpg,/objects/small/stamp-c78-airmail-1971_sm.jpg,/objects/thumbs/stamp-c78-airmail-1971_th.jpg
 /objects/sweethearts-23-p17.jpg,/objects/small/sweethearts-23-p17_sm.jpg,/objects/thumbs/sweethearts-23-p17_th.jpg
 /objects/technicolor-separations-1.png,/objects/small/technicolor-separations-1_sm.jpg,/objects/thumbs/technicolor-separations-1_th.jpg
 /objects/technicolor-separations-2.png,/objects/small/technicolor-separations-2_sm.jpg,/objects/thumbs/technicolor-separations-2_th.jpg
