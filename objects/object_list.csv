@@ -17,6 +17,7 @@ object_location,image_small,image_thumb
 /objects/automation-bindery-3.jpeg,/objects/small/automation-bindery-3_sm.jpg,/objects/thumbs/automation-bindery-3_th.jpg
 /objects/automation-bindery-4.jpeg,/objects/small/automation-bindery-4_sm.jpg,/objects/thumbs/automation-bindery-4_th.jpg
 /objects/bell-and-howell-color-printer-1962.jpg,/objects/small/bell-and-howell-color-printer-1962_sm.jpg,/objects/thumbs/bell-and-howell-color-printer-1962_th.jpg
+/objects/bell-and-howell-fully-automated-1963.jpg,/objects/small/bell-and-howell-fully-automated-1963_sm.jpg,/objects/thumbs/bell-and-howell-fully-automated-1963_th.jpg
 /objects/casimir-sivan-bains-de-la-jetee-1896.png,/objects/small/casimir-sivan-bains-de-la-jetee-1896_sm.jpg,/objects/thumbs/casimir-sivan-bains-de-la-jetee-1896_th.jpg
 /objects/dresdendynamo-1972.jpg,/objects/small/dresdendynamo-1972_sm.jpg,/objects/thumbs/dresdendynamo-1972_th.jpg
 /objects/filmamontageoftheoriescover.png,/objects/small/filmamontageoftheoriescover_sm.jpg,/objects/thumbs/filmamontageoftheoriescover_th.jpg
@@ -26,7 +27,10 @@ object_location,image_small,image_thumb
 /objects/gumppenberg-plate-52-1965.jpg,/objects/small/gumppenberg-plate-52-1965_sm.jpg,/objects/thumbs/gumppenberg-plate-52-1965_th.jpg
 /objects/internationalprojectionist-03-1951-detail.png,/objects/small/internationalprojectionist-03-1951-detail_sm.jpg,/objects/thumbs/internationalprojectionist-03-1951-detail_th.jpg
 /objects/internationalprojectionist-03-1951.pdf,/objects/small/internationalprojectionist-03-1951_sm.jpg,/objects/thumbs/internationalprojectionist-03-1951_th.jpg
+/objects/kusama-accumulation-of-nets.jpg,/objects/small/kusama-accumulation-of-nets_sm.jpg,/objects/thumbs/kusama-accumulation-of-nets_th.jpg
+/objects/kusama-accumulation.jpg,/objects/small/kusama-accumulation_sm.jpg,/objects/thumbs/kusama-accumulation_th.jpg
 /objects/kusama-dressingtable-1964.jpg,/objects/small/kusama-dressingtable-1964_sm.jpg,/objects/thumbs/kusama-dressingtable-1964_th.jpg
+/objects/la-vezzi-sprockets.jpg,/objects/small/la-vezzi-sprockets_sm.jpg,/objects/thumbs/la-vezzi-sprockets_th.jpg
 /objects/lichtenstein-mirror-1972.jpg,/objects/small/lichtenstein-mirror-1972_sm.jpg,/objects/thumbs/lichtenstein-mirror-1972_th.jpg
 /objects/lucky-strike-ad-detail.png,/objects/small/lucky-strike-ad-detail_sm.jpg,/objects/thumbs/lucky-strike-ad-detail_th.jpg
 /objects/lucky-strike-ad.png,/objects/small/lucky-strike-ad_sm.jpg,/objects/thumbs/lucky-strike-ad_th.jpg
@@ -55,6 +59,7 @@ object_location,image_small,image_thumb
 /objects/projectionists-manual-1953.jpg,/objects/small/projectionists-manual-1953_sm.jpg,/objects/thumbs/projectionists-manual-1953_th.jpg
 /objects/projectomatic-1960-1.jpg,/objects/small/projectomatic-1960-1_sm.jpg,/objects/thumbs/projectomatic-1960-1_th.jpg
 /objects/projectomatic-1960-2.jpg,/objects/small/projectomatic-1960-2_sm.jpg,/objects/thumbs/projectomatic-1960-2_th.jpg
+/objects/ringgold-stamps-1967.jpg,/objects/small/ringgold-stamps-1967_sm.jpg,/objects/thumbs/ringgold-stamps-1967_th.jpg
 /objects/sharits-dreamdisplacement-2.jpg,/objects/small/sharits-dreamdisplacement-2_sm.jpg,/objects/thumbs/sharits-dreamdisplacement-2_th.jpg
 /objects/sharits-dreamdisplacement-video.mov,,
 /objects/stamp-1280-frank-lloyd-wright-1966.jpg,/objects/small/stamp-1280-frank-lloyd-wright-1966_sm.jpg,/objects/thumbs/stamp-1280-frank-lloyd-wright-1966_th.jpg
@@ -66,6 +71,8 @@ object_location,image_small,image_thumb
 /objects/technicolor-separations-1.png,/objects/small/technicolor-separations-1_sm.jpg,/objects/thumbs/technicolor-separations-1_th.jpg
 /objects/technicolor-separations-2.png,/objects/small/technicolor-separations-2_sm.jpg,/objects/thumbs/technicolor-separations-2_th.jpg
 /objects/televisionrecieverservicing175.jpg,/objects/small/televisionrecieverservicing175_sm.jpg,/objects/thumbs/televisionrecieverservicing175_th.jpg
+/objects/thompson-westvaco-liberty-bell-1953.jpg,/objects/small/thompson-westvaco-liberty-bell-1953_sm.jpg,/objects/thumbs/thompson-westvaco-liberty-bell-1953_th.jpg
+/objects/thompson-westvaco-rock-and-roll-1953.jpg,/objects/small/thompson-westvaco-rock-and-roll-1953_sm.jpg,/objects/thumbs/thompson-westvaco-rock-and-roll-1953_th.jpg
 /objects/use-and-care-1921-improper-repairs.jpg,/objects/small/use-and-care-1921-improper-repairs_sm.jpg,/objects/thumbs/use-and-care-1921-improper-repairs_th.jpg
 /objects/use-and-care-1921.pdf,/objects/small/use-and-care-1921_sm.jpg,/objects/thumbs/use-and-care-1921_th.jpg
 /objects/war-department-technical-manual-1943-misframe.jpg,/objects/small/war-department-technical-manual-1943-misframe_sm.jpg,/objects/thumbs/war-department-technical-manual-1943-misframe_th.jpg
