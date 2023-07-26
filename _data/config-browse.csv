@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 publication,Publication,,,
-publisher,Publisher,,,
-subject,,true
-identifier,,,true,Identifier
 techniques,,true,,
+forms,,true,,
+identifier,,,true,Identifier
+
