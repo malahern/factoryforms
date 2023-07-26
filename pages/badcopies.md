@@ -1,3 +1,9 @@
+---
+title: Bad Copies
+layout: about
+permalink: /badcopies.html
+---
+
 ## Sisters, not Twins
 
 {% include feature/image.html objectid="ff_098;ff_099" width="50" %}
