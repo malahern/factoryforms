@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a purus eu leo sod
 
 ## The 1962-63 NYC Printers' Strikes
 {:.px-5}
-{% include feature/image.html objectid="ff_strike_2" width="50" %}
+{% include feature/image.html objectid="ff_strike_2" width="25" %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a purus eu leo sodales fringilla. Nam sit amet maximus justo. Curabitur finibus erat at elit tempus, nec efficitur erat pharetra. Integer venenatis dui nec fermentum aliquet. Ut mi mi, ornare sit amet dui eu, tristique venenatis urna. Integer ut purus maximus, convallis ipsum ut, sollicitudin metus. Morbi bibendum lorem arcu, a porta nibh vehicula suscipit. Nulla porttitor risus non magna porttitor interdum.
 
 ## The 1975 Washington Post Pressmen's Strike
